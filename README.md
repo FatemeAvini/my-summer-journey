@@ -26,7 +26,7 @@
 <abbr title=”world wide web”> www</abbr>
 ```
 **abbr will have curly line under it and if we hover it will show title.**
-## Html5 tags
+### Html5 tags
 ```html
 <header></header>
 <nav></nav>
@@ -34,4 +34,9 @@
 <article></article>
 <aside></aside>
 <footer></footer>
+```
+# css
+### link to css in html(in head)
+```html
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
 ```
