@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5574b81e-4ac1-4ceb-9349-314c2b1062ff)# Html
+# Html
 
 ### forms in html
 ```html
