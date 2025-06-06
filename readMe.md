@@ -1,4 +1,4 @@
-# Html
+![image](https://github.com/user-attachments/assets/5574b81e-4ac1-4ceb-9349-314c2b1062ff)# Html
 
 ### forms in html
 ```html
@@ -26,7 +26,7 @@
 <abbr title=”world wide web”> www</abbr>
 ```
 **abbr will have curly line under it and if we hover it will show title.**
-## Html5 tags
+### Html5 tags
 ```html
 <header></header>
 <nav></nav>
@@ -35,3 +35,56 @@
 <aside></aside>
 <footer></footer>
 ```
+# css
+### link to css in html(in head)
+```html
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+```
+### boxModel in css
+![boxmodel](images/boxmodel.png)
+# responsive
+### how media queries work (with max-width )
+we want to apply a certain style for the range between **0 and 600 pixles**we would write a media queris like this 
+```css
+@media (max-width:600px)
+```
+this will check if the current viewport width a smaller or equal than 600 pixles then all the css code that is in this media query will apply.
+**At 700px it will not work**
+### selecting breakpoints.
+### what are breakpoints?
+breakpoints are the viewport with at which we want or designed to change, breakpoints are the pixel values,that we want to put in all media queries.
+![breakpoints](images/06sidebar.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
