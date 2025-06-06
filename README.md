@@ -40,3 +40,25 @@
 ```html
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 ```
+### boxModel in css
+![boxmodel](images/boxmodel.png)
+# responsive
+### how media queries work (with max-width )
+we want to apply a certain style for the range between **0 and 600 pixles**we would write a media queris like this 
+```css
+@media (max-width:600px)
+```
+this will check if the current viewport width a smaller or equal than 600 pixles then all the css code that is in this media query will apply.
+**At 700px it will not work**
+
+ 
+
+
+
+
+
+
+
+
+
+
