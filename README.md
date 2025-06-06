@@ -53,7 +53,7 @@ this will check if the current viewport width a smaller or equal than 600 pixles
 ### selecting breakpoints.
 ### what are breakpoints?
 breakpoints are the viewport with at which we want or designed to change, breakpoints are the pixel values,that we want to put in all media queries.
-![breakpoints](images/06sidebar.png)
+![breakpoints](images/breakpoints.png)
 
 
 
