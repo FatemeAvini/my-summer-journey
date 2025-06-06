@@ -1,4 +1,4 @@
-# Html
+![image](https://github.com/user-attachments/assets/5574b81e-4ac1-4ceb-9349-314c2b1062ff)# Html
 
 ### forms in html
 ```html
@@ -50,6 +50,32 @@ we want to apply a certain style for the range between **0 and 600 pixles**we wo
 ```
 this will check if the current viewport width a smaller or equal than 600 pixles then all the css code that is in this media query will apply.
 **At 700px it will not work**
+### selecting breakpoints.
+### what are breakpoints?
+breakpoints are the viewport with at which we want or designed to change, breakpoints are the pixel values,that we want to put in all media queries.
+![breakpoints](images/06sidebar.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
